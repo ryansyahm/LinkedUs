@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://Fikriansyah:bti728ne87@cluster0.0cl0f.mongodb.net/course?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken",
+	"githubClientId": "c50b854f39b1890f253c",
+	"githubSecret": "fcb675e1ba335c231385d671926c8845f2664bc2"
+}
